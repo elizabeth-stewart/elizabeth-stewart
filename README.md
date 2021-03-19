@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elizabeth-stewart
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Automated Testing, Clean Code
+- 👀 I’m interested in Spring Development, Machine Learning, Artificial Intelligence, Automated Testing, Clean Code
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
